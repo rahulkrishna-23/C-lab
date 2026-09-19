@@ -1,0 +1,42 @@
+c:\Users\jeeva\OneDrive\Desktop\Exp2\Exp2\bin\Debug\net10.0\Exp2.exe
+c:\Users\jeeva\OneDrive\Desktop\Exp2\Exp2\bin\Debug\net10.0\Exp2.deps.json
+c:\Users\jeeva\OneDrive\Desktop\Exp2\Exp2\bin\Debug\net10.0\Exp2.runtimeconfig.json
+c:\Users\jeeva\OneDrive\Desktop\Exp2\Exp2\bin\Debug\net10.0\Exp2.dll
+c:\Users\jeeva\OneDrive\Desktop\Exp2\Exp2\bin\Debug\net10.0\Exp2.pdb
+c:\Users\jeeva\OneDrive\Desktop\Exp2\Exp2\obj\Debug\net10.0\Exp2.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\jeeva\OneDrive\Desktop\Exp2\Exp2\obj\Debug\net10.0\Exp2.AssemblyInfoInputs.cache
+c:\Users\jeeva\OneDrive\Desktop\Exp2\Exp2\obj\Debug\net10.0\Exp2.AssemblyInfo.cs
+c:\Users\jeeva\OneDrive\Desktop\Exp2\Exp2\obj\Debug\net10.0\Exp2.csproj.CoreCompileInputs.cache
+c:\Users\jeeva\OneDrive\Desktop\Exp2\Exp2\obj\Debug\net10.0\Exp2.dll
+c:\Users\jeeva\OneDrive\Desktop\Exp2\Exp2\obj\Debug\net10.0\refint\Exp2.dll
+c:\Users\jeeva\OneDrive\Desktop\Exp2\Exp2\obj\Debug\net10.0\Exp2.pdb
+c:\Users\jeeva\OneDrive\Desktop\Exp2\Exp2\obj\Debug\net10.0\Exp2.genruntimeconfig.cache
+c:\Users\jeeva\OneDrive\Desktop\Exp2\Exp2\obj\Debug\net10.0\ref\Exp2.dll
+C:\C# PROGRAM\Exp2\bin\Debug\net10.0\Exp2.exe
+C:\C# PROGRAM\Exp2\bin\Debug\net10.0\Exp2.deps.json
+C:\C# PROGRAM\Exp2\bin\Debug\net10.0\Exp2.runtimeconfig.json
+C:\C# PROGRAM\Exp2\bin\Debug\net10.0\Exp2.dll
+C:\C# PROGRAM\Exp2\bin\Debug\net10.0\Exp2.pdb
+C:\C# PROGRAM\Exp2\obj\Debug\net10.0\Exp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# PROGRAM\Exp2\obj\Debug\net10.0\Exp2.AssemblyInfoInputs.cache
+C:\C# PROGRAM\Exp2\obj\Debug\net10.0\Exp2.AssemblyInfo.cs
+C:\C# PROGRAM\Exp2\obj\Debug\net10.0\Exp2.csproj.CoreCompileInputs.cache
+C:\C# PROGRAM\Exp2\obj\Debug\net10.0\Exp2.dll
+C:\C# PROGRAM\Exp2\obj\Debug\net10.0\refint\Exp2.dll
+C:\C# PROGRAM\Exp2\obj\Debug\net10.0\Exp2.pdb
+C:\C# PROGRAM\Exp2\obj\Debug\net10.0\Exp2.genruntimeconfig.cache
+C:\C# PROGRAM\Exp2\obj\Debug\net10.0\ref\Exp2.dll
+D:\C# PROGRAM\Exp2\bin\Debug\net10.0\Exp2.exe
+D:\C# PROGRAM\Exp2\bin\Debug\net10.0\Exp2.deps.json
+D:\C# PROGRAM\Exp2\bin\Debug\net10.0\Exp2.runtimeconfig.json
+D:\C# PROGRAM\Exp2\bin\Debug\net10.0\Exp2.dll
+D:\C# PROGRAM\Exp2\bin\Debug\net10.0\Exp2.pdb
+D:\C# PROGRAM\Exp2\obj\Debug\net10.0\Exp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# PROGRAM\Exp2\obj\Debug\net10.0\Exp2.AssemblyInfoInputs.cache
+D:\C# PROGRAM\Exp2\obj\Debug\net10.0\Exp2.AssemblyInfo.cs
+D:\C# PROGRAM\Exp2\obj\Debug\net10.0\Exp2.csproj.CoreCompileInputs.cache
+D:\C# PROGRAM\Exp2\obj\Debug\net10.0\Exp2.dll
+D:\C# PROGRAM\Exp2\obj\Debug\net10.0\refint\Exp2.dll
+D:\C# PROGRAM\Exp2\obj\Debug\net10.0\Exp2.pdb
+D:\C# PROGRAM\Exp2\obj\Debug\net10.0\Exp2.genruntimeconfig.cache
+D:\C# PROGRAM\Exp2\obj\Debug\net10.0\ref\Exp2.dll

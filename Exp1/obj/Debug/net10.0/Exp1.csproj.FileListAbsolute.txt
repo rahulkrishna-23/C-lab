@@ -1,0 +1,28 @@
+c:\Users\jeeva\OneDrive\Desktop\Exp1\Exp1\bin\Debug\net10.0\Exp1.exe
+c:\Users\jeeva\OneDrive\Desktop\Exp1\Exp1\bin\Debug\net10.0\Exp1.deps.json
+c:\Users\jeeva\OneDrive\Desktop\Exp1\Exp1\bin\Debug\net10.0\Exp1.runtimeconfig.json
+c:\Users\jeeva\OneDrive\Desktop\Exp1\Exp1\bin\Debug\net10.0\Exp1.dll
+c:\Users\jeeva\OneDrive\Desktop\Exp1\Exp1\bin\Debug\net10.0\Exp1.pdb
+c:\Users\jeeva\OneDrive\Desktop\Exp1\Exp1\obj\Debug\net10.0\Exp1.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\jeeva\OneDrive\Desktop\Exp1\Exp1\obj\Debug\net10.0\Exp1.AssemblyInfoInputs.cache
+c:\Users\jeeva\OneDrive\Desktop\Exp1\Exp1\obj\Debug\net10.0\Exp1.AssemblyInfo.cs
+c:\Users\jeeva\OneDrive\Desktop\Exp1\Exp1\obj\Debug\net10.0\Exp1.csproj.CoreCompileInputs.cache
+c:\Users\jeeva\OneDrive\Desktop\Exp1\Exp1\obj\Debug\net10.0\Exp1.dll
+c:\Users\jeeva\OneDrive\Desktop\Exp1\Exp1\obj\Debug\net10.0\refint\Exp1.dll
+c:\Users\jeeva\OneDrive\Desktop\Exp1\Exp1\obj\Debug\net10.0\Exp1.pdb
+c:\Users\jeeva\OneDrive\Desktop\Exp1\Exp1\obj\Debug\net10.0\Exp1.genruntimeconfig.cache
+c:\Users\jeeva\OneDrive\Desktop\Exp1\Exp1\obj\Debug\net10.0\ref\Exp1.dll
+D:\C# PROGRAM\Exp1\bin\Debug\net10.0\Exp1.exe
+D:\C# PROGRAM\Exp1\bin\Debug\net10.0\Exp1.deps.json
+D:\C# PROGRAM\Exp1\bin\Debug\net10.0\Exp1.runtimeconfig.json
+D:\C# PROGRAM\Exp1\bin\Debug\net10.0\Exp1.dll
+D:\C# PROGRAM\Exp1\bin\Debug\net10.0\Exp1.pdb
+D:\C# PROGRAM\Exp1\obj\Debug\net10.0\Exp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# PROGRAM\Exp1\obj\Debug\net10.0\Exp1.AssemblyInfoInputs.cache
+D:\C# PROGRAM\Exp1\obj\Debug\net10.0\Exp1.AssemblyInfo.cs
+D:\C# PROGRAM\Exp1\obj\Debug\net10.0\Exp1.csproj.CoreCompileInputs.cache
+D:\C# PROGRAM\Exp1\obj\Debug\net10.0\Exp1.dll
+D:\C# PROGRAM\Exp1\obj\Debug\net10.0\refint\Exp1.dll
+D:\C# PROGRAM\Exp1\obj\Debug\net10.0\Exp1.pdb
+D:\C# PROGRAM\Exp1\obj\Debug\net10.0\Exp1.genruntimeconfig.cache
+D:\C# PROGRAM\Exp1\obj\Debug\net10.0\ref\Exp1.dll

@@ -1,0 +1,80 @@
+@page
+@model RegisterModel
+@using System.ComponentModel.DataAnnotations
+@using Microsoft.AspNetCore.Mvc.RazorPages
+@using Microsoft.AspNetCore.Mvc
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Web Validation Demo</title>
+    <style>
+        .form-group { margin-bottom: 15px; }
+        .text-danger { color: red; font-size: 14px; display: block; }
+    </style>
+</head>
+<body>
+    <h2>User Registration</h2>
+
+    <form method="post">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+        <div class="form-group">
+            <label asp-for="Input.Email"></label><br />
+            <input asp-for="Input.Email" />
+            <span asp-validation-for="Input.Email" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Input.Age"></label><br />
+            <input asp-for="Input.Age" />
+            <span asp-validation-for="Input.Age" class="text-danger"></span>
+        </div>
+
+        <button type="submit">Submit</button>
+    </form>
+
+    @if (TempData["SuccessMessage"] != null)
+    {
+        <h3 style="color: green;">@TempData["SuccessMessage"]</h3>
+    }
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.3/jquery.validate.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/3.2.12/jquery.validate.unobtrusive.min.js"></script>
+</body>
+</html>
+
+@functions {
+    public class RegisterModel : PageModel
+    {
+        [BindProperty]
+        public InputModel Input { get; set; } = new InputModel();
+
+        public void OnGet() { }
+
+        public IActionResult OnPost()
+        {
+            if (!ModelState.IsValid)
+            {
+                return Page();
+            }
+
+            TempData["SuccessMessage"] = "Web form successfully validated and processed!";
+            return Page();
+        }
+
+        public class InputModel
+        {
+            [Required(ErrorMessage = "Email is required.")]
+            [EmailAddress(ErrorMessage = "Please enter a valid email format.")]
+            public string Email { get; set; } = string.Empty;
+
+            [Required(ErrorMessage = "Age is required.")]
+            [Range(18, 100, ErrorMessage = "Age must be between 18 and 100.")]
+            public int? Age { get; set; }
+        }
+    }
+}

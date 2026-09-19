@@ -1,0 +1,42 @@
+c:\Users\jeeva\OneDrive\Desktop\Exp4\Exp4\bin\Debug\net10.0\Exp4.exe
+c:\Users\jeeva\OneDrive\Desktop\Exp4\Exp4\bin\Debug\net10.0\Exp4.deps.json
+c:\Users\jeeva\OneDrive\Desktop\Exp4\Exp4\bin\Debug\net10.0\Exp4.runtimeconfig.json
+c:\Users\jeeva\OneDrive\Desktop\Exp4\Exp4\bin\Debug\net10.0\Exp4.dll
+c:\Users\jeeva\OneDrive\Desktop\Exp4\Exp4\bin\Debug\net10.0\Exp4.pdb
+c:\Users\jeeva\OneDrive\Desktop\Exp4\Exp4\obj\Debug\net10.0\Exp4.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\jeeva\OneDrive\Desktop\Exp4\Exp4\obj\Debug\net10.0\Exp4.AssemblyInfoInputs.cache
+c:\Users\jeeva\OneDrive\Desktop\Exp4\Exp4\obj\Debug\net10.0\Exp4.AssemblyInfo.cs
+c:\Users\jeeva\OneDrive\Desktop\Exp4\Exp4\obj\Debug\net10.0\Exp4.csproj.CoreCompileInputs.cache
+c:\Users\jeeva\OneDrive\Desktop\Exp4\Exp4\obj\Debug\net10.0\Exp4.dll
+c:\Users\jeeva\OneDrive\Desktop\Exp4\Exp4\obj\Debug\net10.0\refint\Exp4.dll
+c:\Users\jeeva\OneDrive\Desktop\Exp4\Exp4\obj\Debug\net10.0\Exp4.pdb
+c:\Users\jeeva\OneDrive\Desktop\Exp4\Exp4\obj\Debug\net10.0\Exp4.genruntimeconfig.cache
+c:\Users\jeeva\OneDrive\Desktop\Exp4\Exp4\obj\Debug\net10.0\ref\Exp4.dll
+C:\C# PROGRAM\Exp4\bin\Debug\net10.0\Exp4.exe
+C:\C# PROGRAM\Exp4\bin\Debug\net10.0\Exp4.deps.json
+C:\C# PROGRAM\Exp4\bin\Debug\net10.0\Exp4.runtimeconfig.json
+C:\C# PROGRAM\Exp4\bin\Debug\net10.0\Exp4.dll
+C:\C# PROGRAM\Exp4\bin\Debug\net10.0\Exp4.pdb
+C:\C# PROGRAM\Exp4\obj\Debug\net10.0\Exp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# PROGRAM\Exp4\obj\Debug\net10.0\Exp4.AssemblyInfoInputs.cache
+C:\C# PROGRAM\Exp4\obj\Debug\net10.0\Exp4.AssemblyInfo.cs
+C:\C# PROGRAM\Exp4\obj\Debug\net10.0\Exp4.csproj.CoreCompileInputs.cache
+C:\C# PROGRAM\Exp4\obj\Debug\net10.0\Exp4.dll
+C:\C# PROGRAM\Exp4\obj\Debug\net10.0\refint\Exp4.dll
+C:\C# PROGRAM\Exp4\obj\Debug\net10.0\Exp4.pdb
+C:\C# PROGRAM\Exp4\obj\Debug\net10.0\Exp4.genruntimeconfig.cache
+C:\C# PROGRAM\Exp4\obj\Debug\net10.0\ref\Exp4.dll
+D:\C# PROGRAM\Exp4\bin\Debug\net10.0\Exp4.exe
+D:\C# PROGRAM\Exp4\bin\Debug\net10.0\Exp4.deps.json
+D:\C# PROGRAM\Exp4\bin\Debug\net10.0\Exp4.runtimeconfig.json
+D:\C# PROGRAM\Exp4\bin\Debug\net10.0\Exp4.dll
+D:\C# PROGRAM\Exp4\bin\Debug\net10.0\Exp4.pdb
+D:\C# PROGRAM\Exp4\obj\Debug\net10.0\Exp4.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# PROGRAM\Exp4\obj\Debug\net10.0\Exp4.AssemblyInfoInputs.cache
+D:\C# PROGRAM\Exp4\obj\Debug\net10.0\Exp4.AssemblyInfo.cs
+D:\C# PROGRAM\Exp4\obj\Debug\net10.0\Exp4.csproj.CoreCompileInputs.cache
+D:\C# PROGRAM\Exp4\obj\Debug\net10.0\Exp4.dll
+D:\C# PROGRAM\Exp4\obj\Debug\net10.0\refint\Exp4.dll
+D:\C# PROGRAM\Exp4\obj\Debug\net10.0\Exp4.pdb
+D:\C# PROGRAM\Exp4\obj\Debug\net10.0\Exp4.genruntimeconfig.cache
+D:\C# PROGRAM\Exp4\obj\Debug\net10.0\ref\Exp4.dll

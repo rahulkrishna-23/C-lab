@@ -1,0 +1,42 @@
+C:\Users\jeeva\OneDrive\Desktop\Exp5\Exp5\bin\Debug\net10.0\Exp5.exe
+C:\Users\jeeva\OneDrive\Desktop\Exp5\Exp5\bin\Debug\net10.0\Exp5.deps.json
+C:\Users\jeeva\OneDrive\Desktop\Exp5\Exp5\bin\Debug\net10.0\Exp5.runtimeconfig.json
+C:\Users\jeeva\OneDrive\Desktop\Exp5\Exp5\bin\Debug\net10.0\Exp5.dll
+C:\Users\jeeva\OneDrive\Desktop\Exp5\Exp5\bin\Debug\net10.0\Exp5.pdb
+C:\Users\jeeva\OneDrive\Desktop\Exp5\Exp5\obj\Debug\net10.0\Exp5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeeva\OneDrive\Desktop\Exp5\Exp5\obj\Debug\net10.0\Exp5.AssemblyInfoInputs.cache
+C:\Users\jeeva\OneDrive\Desktop\Exp5\Exp5\obj\Debug\net10.0\Exp5.AssemblyInfo.cs
+C:\Users\jeeva\OneDrive\Desktop\Exp5\Exp5\obj\Debug\net10.0\Exp5.csproj.CoreCompileInputs.cache
+C:\Users\jeeva\OneDrive\Desktop\Exp5\Exp5\obj\Debug\net10.0\Exp5.dll
+C:\Users\jeeva\OneDrive\Desktop\Exp5\Exp5\obj\Debug\net10.0\refint\Exp5.dll
+C:\Users\jeeva\OneDrive\Desktop\Exp5\Exp5\obj\Debug\net10.0\Exp5.pdb
+C:\Users\jeeva\OneDrive\Desktop\Exp5\Exp5\obj\Debug\net10.0\Exp5.genruntimeconfig.cache
+C:\Users\jeeva\OneDrive\Desktop\Exp5\Exp5\obj\Debug\net10.0\ref\Exp5.dll
+C:\C# PROGRAM\Exp5\bin\Debug\net10.0\Exp5.exe
+C:\C# PROGRAM\Exp5\bin\Debug\net10.0\Exp5.deps.json
+C:\C# PROGRAM\Exp5\bin\Debug\net10.0\Exp5.runtimeconfig.json
+C:\C# PROGRAM\Exp5\bin\Debug\net10.0\Exp5.dll
+C:\C# PROGRAM\Exp5\bin\Debug\net10.0\Exp5.pdb
+C:\C# PROGRAM\Exp5\obj\Debug\net10.0\Exp5.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# PROGRAM\Exp5\obj\Debug\net10.0\Exp5.AssemblyInfoInputs.cache
+C:\C# PROGRAM\Exp5\obj\Debug\net10.0\Exp5.AssemblyInfo.cs
+C:\C# PROGRAM\Exp5\obj\Debug\net10.0\Exp5.csproj.CoreCompileInputs.cache
+C:\C# PROGRAM\Exp5\obj\Debug\net10.0\Exp5.dll
+C:\C# PROGRAM\Exp5\obj\Debug\net10.0\refint\Exp5.dll
+C:\C# PROGRAM\Exp5\obj\Debug\net10.0\Exp5.pdb
+C:\C# PROGRAM\Exp5\obj\Debug\net10.0\Exp5.genruntimeconfig.cache
+C:\C# PROGRAM\Exp5\obj\Debug\net10.0\ref\Exp5.dll
+D:\C# PROGRAM\Exp5\bin\Debug\net10.0\Exp5.exe
+D:\C# PROGRAM\Exp5\bin\Debug\net10.0\Exp5.deps.json
+D:\C# PROGRAM\Exp5\bin\Debug\net10.0\Exp5.runtimeconfig.json
+D:\C# PROGRAM\Exp5\bin\Debug\net10.0\Exp5.dll
+D:\C# PROGRAM\Exp5\bin\Debug\net10.0\Exp5.pdb
+D:\C# PROGRAM\Exp5\obj\Debug\net10.0\Exp5.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# PROGRAM\Exp5\obj\Debug\net10.0\Exp5.AssemblyInfoInputs.cache
+D:\C# PROGRAM\Exp5\obj\Debug\net10.0\Exp5.AssemblyInfo.cs
+D:\C# PROGRAM\Exp5\obj\Debug\net10.0\Exp5.csproj.CoreCompileInputs.cache
+D:\C# PROGRAM\Exp5\obj\Debug\net10.0\Exp5.dll
+D:\C# PROGRAM\Exp5\obj\Debug\net10.0\refint\Exp5.dll
+D:\C# PROGRAM\Exp5\obj\Debug\net10.0\Exp5.pdb
+D:\C# PROGRAM\Exp5\obj\Debug\net10.0\Exp5.genruntimeconfig.cache
+D:\C# PROGRAM\Exp5\obj\Debug\net10.0\ref\Exp5.dll

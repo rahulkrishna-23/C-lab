@@ -1,0 +1,14 @@
+D:\C# PROGRAM\Exp7a\ValidationApp\bin\Debug\net10.0-windows\ValidationApp.exe
+D:\C# PROGRAM\Exp7a\ValidationApp\bin\Debug\net10.0-windows\ValidationApp.deps.json
+D:\C# PROGRAM\Exp7a\ValidationApp\bin\Debug\net10.0-windows\ValidationApp.runtimeconfig.json
+D:\C# PROGRAM\Exp7a\ValidationApp\bin\Debug\net10.0-windows\ValidationApp.dll
+D:\C# PROGRAM\Exp7a\ValidationApp\bin\Debug\net10.0-windows\ValidationApp.pdb
+D:\C# PROGRAM\Exp7a\ValidationApp\obj\Debug\net10.0-windows\ValidationApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# PROGRAM\Exp7a\ValidationApp\obj\Debug\net10.0-windows\ValidationApp.AssemblyInfoInputs.cache
+D:\C# PROGRAM\Exp7a\ValidationApp\obj\Debug\net10.0-windows\ValidationApp.AssemblyInfo.cs
+D:\C# PROGRAM\Exp7a\ValidationApp\obj\Debug\net10.0-windows\ValidationApp.csproj.CoreCompileInputs.cache
+D:\C# PROGRAM\Exp7a\ValidationApp\obj\Debug\net10.0-windows\ValidationApp.dll
+D:\C# PROGRAM\Exp7a\ValidationApp\obj\Debug\net10.0-windows\refint\ValidationApp.dll
+D:\C# PROGRAM\Exp7a\ValidationApp\obj\Debug\net10.0-windows\ValidationApp.pdb
+D:\C# PROGRAM\Exp7a\ValidationApp\obj\Debug\net10.0-windows\ValidationApp.genruntimeconfig.cache
+D:\C# PROGRAM\Exp7a\ValidationApp\obj\Debug\net10.0-windows\ref\ValidationApp.dll
